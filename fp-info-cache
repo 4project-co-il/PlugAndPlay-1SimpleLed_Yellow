@@ -1,4 +1,4 @@
-27430194448312945
+27439451861601061
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94080,6 +94080,20 @@ PnP_Library
 0
 0
 PnP_Library
+BatteryHolder_CR2032_PTH
+http://www.keyelco.com/product-pdf.cfm?p=719
+Keystone type 103 battery holder
+0
+2
+2
+PnP_Library
+PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight socket strip, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x02 2.54mm single row style2 pin1 right
+0
+4
+2
+PnP_Library
 PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left
 surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
 Surface mounted socket strip SMD 1x04 2.54mm single row style1 pin1 left
@@ -94108,19 +94122,26 @@ Surface mounted socket strip SMD 1x05 2.54mm single row style2 pin1 right
 10
 5
 PnP_Library
+PinSocket_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x05 2.54mm double row
+0
+20
+10
+PnP_Library
+PinSocket_2x06_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x06 2.54mm double row
+0
+24
+12
+PnP_Library
 PogoPinsPads_1x04_P2.5mm
 Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x04 2.54mm single row
 0
 4
 4
-PnP_Library
-Polarity_Center_Positive_3mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
 PnP_Library
 SMD-CBI-5mm
 
@@ -94136,12 +94157,26 @@ SMD-CBI-5mm-4Gang
 0
 0
 PnP_Library
+SOT23-8_5X3_TEX
+
+LP5815DRLR 
+0
+8
+8
+PnP_Library
 SW_Slide_SPDT_Straight_3.0mm
 CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
 switch SPDT
 0
 5
 3
+PnP_Library
+UDFN-6L_2X2X0P5_STM
+
+STTS22HTR 
+0
+7
+7
 PnP_Library
 USB_C_Receptacle_G-Switch_GT-USB-7010ASV
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
